@@ -11,6 +11,13 @@ public class Main {
 		 */
 		System.out.println("Feature-update1");
 		System.out.println("Print additional lines of code");
+		
+		/**
+		 * Make a change to branch 2; feature-update2
+		 */
+		System.out.println("Feature-update2");
+		System.out.println("Print additional lines of code");
+		System.out.println("This is the final update for task 9");
 	}
-
+	
 }
